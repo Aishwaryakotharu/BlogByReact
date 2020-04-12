@@ -1,2 +1,0 @@
-# BlogByReact
-Created with CodeSandbox
